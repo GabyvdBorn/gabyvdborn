@@ -3,9 +3,9 @@
 <br>
 
 
-🔭 I’m currently working on [Heiko](https://github.com/Gwenlgd/Heiko.git) , a food reaction tracking app for people experiencing symptoms after eating.
-🌱 I’m currently learning ** UI / UX & React **
-📫 How to reach me? Send an email to:  **gabyvdborn@gmail.com**
+- 🔭 I’m currently working on [Heiko](https://github.com/Gwenlgd/Heiko.git) , a food reaction tracking app for people experiencing symptoms after eating.
+- 🌱 I’m currently learning ** UI / UX & React **
+- 📫 How to reach me? Send an email to:  **gabyvdborn@gmail.com**
 
 <br>
 <br>
