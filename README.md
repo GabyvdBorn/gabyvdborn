@@ -1,4 +1,5 @@
-<h2>Hi 👋, i'm Gaby.</h2>
+
+<h3> Hi, i'm Gaby 👋, 
 <h3>A passionate Frontend Web Developer from The Netherlands.</h3>
 <br>
 
