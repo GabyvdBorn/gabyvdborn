@@ -1,6 +1,6 @@
 
 <h3> Hi, i'm Gaby 👋, 
-<h3>A passionate Frontend Web Developer from The Netherlands.</h3>
+<h4>A passionate Frontend Web Developer from The Netherlands.</h4>
 <br>
 
 
