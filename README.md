@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, Gaby here.</h1>
-<br>
-<h3 align="center">A passionate frontend developer from The Netherlands.</h3>
+<h3 align="center">A passionate Frontend Developer from The Netherlands.</h3>
 <br>
 
 - 🔭 I’m currently working on [Heiko](https://github.com/Gwenlgd/Heiko.git)
